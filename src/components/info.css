@@ -59,7 +59,7 @@ button {
 
 @media screen and (max-width: 768px) {
     .box {
-        width: 350px;
+        width: 300px;
     }
 
     img{
@@ -69,5 +69,9 @@ button {
 
     .Interests {
         margin-left: 15px;
+    }
+
+    h3 {
+        font-size: 16px;
     }
   }
