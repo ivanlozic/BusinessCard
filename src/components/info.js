@@ -38,7 +38,7 @@ function Info() {
       <div className="About">
         <About />
       </div>
-      <div>
+      <div className="Interests">
         <Interests />
       </div>
       <div className="Footer">

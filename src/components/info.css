@@ -55,3 +55,19 @@ button {
     margin-top: 20px;
     margin-left: 15px;
 }
+
+
+@media screen and (max-width: 768px) {
+    .box {
+        width: 350px;
+    }
+
+    img{
+        height: 400px;
+    }
+
+
+    .Interests {
+        margin-left: 15px;
+    }
+  }
