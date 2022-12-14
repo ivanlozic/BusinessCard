@@ -1,0 +1,24 @@
+
+
+
+.img_box img{
+    width: 70px;
+    height: 60px;
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.img_box img:not(:first-child) {
+    margin-left: 50px;
+}
+
+
+.Footer {
+    background-color: #090911;
+    width: 100%;
+    margin-top: 40px;
+    padding: 40px;
+    display:flex;
+    justify-content: center;
+}
